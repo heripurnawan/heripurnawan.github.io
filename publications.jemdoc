@@ -1,0 +1,76 @@
+# jemdoc: menu{menu.jemdoc}{publications.html}
+== Publications
+[https://scholar.google.com/citations?user=4K5iBboAAAAJ&hl=en \[Google Scholar\]] 
+
+== Journal publications 
+
+- \[J13\] H. J. van Waarde, M. K. Camlibel, P. Rapisarda, and H. L. Trentelman, "Data-driven dissipativity analysis: application of the matrix S-lemma", \n
+/to appear in IEEE Control Systems Magazine/, 2022 [https://arxiv.org/abs/2109.02090 \[arXiv\]]. 
+- \[J12\] H. J. van Waarde, "Beyond Persistent Excitation: Online Experiment Design for Data-Driven Modeling and Control", \n 
+/in IEEE Control Systems Letters/, vol. 6, pp. 319--324, 2022. [https://arxiv.org/abs/2102.11193 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/9406124 \[Publisher\]]
+- \[J11\] H.J. van Waarde, M.K. Camlibel, and M. Mesbahi, "From noisy data to feedback controllers: non-conservative design via a matrix S-lemma",
+\n /to appear in IEEE Transactions on Automatic Control/, Jan. 2022. [https://arxiv.org/abs/2006.00870 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/9308978 \[Publisher\]]
+- \[J10\] B. Shali, H.J. van Waarde, H.L. Trentelman, and M.K. Camlibel, "Properties of pattern matrices with applications to structured systems", 
+\n /in IEEE Control Systems Letters/, vol. 6, pp. 109--114, 2022. [https://arxiv.org/abs/2011.12158 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/9319174/ \[Publisher\]]
+- \[J9\] H.J. van Waarde, P. Tesi, and M.K. Camlibel, "Topology Identification of Heterogeneous Networks: Identifiability and Reconstruction", \n
+/in Automatica/, vol. 123, pp. 109331, Jan. 2021. [https://arxiv.org/abs/1909.11054 \[arXiv\]] [https://www.sciencedirect.com/science/article/pii/S0005109820305318 \[Publisher\]]
+- \[J8\] J. Jia, H.J. van Waarde, H.L. Trentelman, and M.K. Camlibel, "A Unifying Framework for Strong Structural Controllability", \n
+/in IEEE Transactions on Automatic Control/, vol. 66, no. 1, pp. 391--398, Jan. 2021. [https://arxiv.org/abs/1903.03353 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/9039736/ \[Publisher\]]
+- \[J7\] H.J. van Waarde, J. Eising, H.L. Trentelman, and M.K. Camlibel, "Data informativity: a new perspective on data-driven analysis and control",
+\n /in IEEE Transactions on Automatic Control/, vol. 65, no. 11, pp. 4753-4768, Nov. 2020. [https://arxiv.org/abs/1908.00468 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/8960476 \[Publisher\]]
+- \[J6\] H.J. van Waarde, P. Tesi and M.K. Camlibel, "Necessary and Sufficient Topological Conditions for Identifiability of Dynamical Networks",
+\n /in IEEE Transactions on Automatic Control/, vol. 65, no. 11, pp. 4525-4537, Nov. 2020. [https://arxiv.org/abs/1807.09141 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/8920040 \[Publisher\]]
+- \[J5\] H.J. van Waarde, C. De Persis, M.K. Camlibel, and P. Tesi, "Willems' Fundamental Lemma for State-space Systems and its Extension to Multiple Datasets",\n
+/in IEEE Control Systems Letters/, vol. 4, no. 3, pp. 602--607, July 2020. [https://arxiv.org/abs/2002.01023 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/9062331 \[Publisher\]]
+- \[J4\] H.J. van Waarde, P. Tesi and M.K. Camlibel, "Topology Reconstruction of Dynamical Networks via Constrained Lyapunov Equations" 
+\n /in IEEE Transactions on Automatic Control/, vol. 64, no. 10, pp. 4300--4306, Oct. 2019. [https://arxiv.org/abs/1706.09709 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/8621032 \[Publisher\]]
+- \[J3\] H.J. van Waarde, P. Tesi and M.K. Camlibel, "Identifiability of Undirected Dynamical Networks: A Graph-Theoretic Approach",
+\n /in IEEE Control Systems Letters/, vol. 2, no. 4, pp. 683--688, Oct. 2018. [https://arxiv.org/abs/1803.05247 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/8382192/ \[Publisher\]]
+- \[J2\] H.J. van Waarde, M.K. Camlibel and H.L. Trentelman, "A Distance-based Approach to Strong Target Control of Dynamical Networks", 
+\n /in IEEE Transactions on Automatic Control/, vol. 62, no. 12, pp. 6266--6277, Dec. 2017. [https://arxiv.org/abs/1608.02256 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/7934432/ \[Publisher\]]
+- \[J1\] H.J. van Waarde, M.K. Camlibel and H.L. Trentelman, "Comments on \"On the Necessity of Diffusive Couplings in Linear Synchronization Problems With Quadratic Cost\"",
+\n /in IEEE Transactions on Automatic Control/, vol. 62, no. 6, pp. 3099--3101, June 2017. [https://ieeexplore.ieee.org/abstract/document/7862732/ \[Publisher\]] 
+
+== Conference publications
+
+- \[C7\] Y. Yu, S. Talebi, H.J. van Waarde, U. Topcu, M. Mesbahi and B. Acikmese, "On Controllability and Persistency of Excitation in Data-Driven Control: Extensions of Willems' Fundamental Lemma", 
+/to appear in Proceedings of the Conference on Decision and Control/, 2021. [https://arxiv.org/abs/2102.02953 \[arXiv\]]
+- \[C6\] J. Jiao, H.J. van Waarde, H.L. Trentelman, M.K. Camlibel, and S. Hirche, "Data-driven output synchronization of heterogeneous leader-follower multi-agent systems
+", \n
+/to appear in Proceedings of the Conference on Decision and Control/, 2021. [https://arxiv.org/abs/2103.11851 \[arXiv\]]
+- \[C5\] H.J. van Waarde and M.K. Camlibel, "A Matrix Finsler's Lemma with Applications to Data-Driven Control", \n
+/to appear in Proceedings of the Conference on Decision and Control/, 2021. [https://arxiv.org/abs/2103.13461 \[arXiv\]]
+- \[C4\] H.J. van Waarde, and M. Mesbahi, "Data-driven parameterizations of suboptimal LQR and H2 controllers",
+\n /in Proceedings of the IFAC World Congress/, Berlin, Germany, pp. 4234--4239, 2020. [https://arxiv.org/abs/1912.07671 \[arXiv\]] [https://www.sciencedirect.com/science/article/pii/S240589632033175X \[Publisher\]]
+- \[C3\] H.J. van Waarde, P. Tesi and M.K. Camlibel, "Topology Identification of Heterogeneous Networks of Linear Systems", \n
+/in Proceedings of the IEEE Conference on Decision and Control/, Nice, France, pp. 5513--5518, 2019. [https://ieeexplore.ieee.org/abstract/document/9029564/ \[Publisher\]]
+- \[C2\] H.J. van Waarde, P. Tesi, and M.K. Camlibel, "Topological Conditions for Identifiability of Dynamical Networks with Partial Node Measurements", 
+\n /in Proceedings of the IFAC Workshop on Distributed Estimation and Control in Networked Systems/, Groningen, The Netherlands, pp. 319--324, 2018. [https://arxiv.org/abs/1804.10799 \[arXiv\]] [https://www.sciencedirect.com/science/article/pii/S2405896318335870 \[Publisher\]]
+- \[C1\] F. Veldman-de Roo, A. Tejada, H.J. van Waarde, and H.L. Trentelman, "Towards observer-based fault detection and isolation for branched water distribution networks without cycles", 
+\n /in Proceedings of the European Control Conference/, Linz, Austria, pp. 3280--3285, 2015. [https://ieeexplore.ieee.org/abstract/document/7331040/ \[Publisher\]]
+
+== Peer-reviewed extended abstracts
+
+- \[E2\] H.J. van Waarde, J. Eising, H.L. Trentelman, and M.K. Camlibel, "An exciting, but not persistently exciting perspective on data-driven analysis and control",
+\n /accepted for presentation at the International Symposium on Mathematical Theory of Networks and Systems/, Cambridge, United Kingdom, 2021. 
+- \[E1\] H.J. van Waarde, P. Tesi, and M.K. Camlibel, "Topology Reconstruction of Dynamical Networks via Constrained Lyapunov Equations", \n
+/in International Conference on Complex Networks and Their Applications/ Lyon, France, pp. 187--189, 2017. 
+
+== Book chapters
+
+- \[BC1\] H.J. van Waarde, N. Monshizadeh, H.L. Trentelman, and M.K. Camlibel, "Strong structural controllability and zero forcing",\n 
+/in Structural Methods in the Study of Complex Systems/, ser. Lecture Notes in Control and Information Sciences, E. Zattoni, A. Perdon, and G. Conte, Eds., Springer, 2019. [https://link.springer.com/chapter/10.1007/978-3-030-18572-5_3 \[Publisher\]]
+
+== Theses 
+
+- \[T3\] H.J. van Waarde, "From data and structure to models and controllers", /PhD thesis, University of Groningen/, 2020. [https://research.rug.nl/nl/publications/from-data-and-structure-to-models-and-controllers \[Publisher\]]
+- \[T2\] H.J. van Waarde, "Control of Networked Multi-Agent Systems", /Master's thesis, University of Groningen/, 2016.
+- \[T1\] H.J. van Waarde, "Fault detection and isolation in water distribution networks", /Bachelor's thesis, University of Groningen/, 2014.
+
+== Preprints and submitted papers 
+
+- \[P1\] J. Jia, B. M. Shali, H. J. van Waarde, M. K. Camlibel, and H. L. Trentelman, "Scalable controllability analysis of structured networks", \n
+/submitted for publication in IEEE Transactions on Networked Systems/, 2021. [https://arxiv.org/abs/2012.09087 \[arXiv\]]
+- \[P2\] H. L. Trentelman, H. J. van Waarde, M. K. Camlibel, "An informativity approach to data-driven tracking and regulation", \n 
+/submitted for publication in IEEE Transactions on Automatic Control/, 2021. [https://arxiv.org/abs/2009.01552 \[arXiv\]] 
+

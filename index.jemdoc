@@ -1,0 +1,50 @@
+# jemdoc: menu{menu.jemdoc}{index.html}, nofooter  
+==Henk van Waarde
+
+~~~
+{}{img_left}{Henk.jpeg}{alt text}{286}{363}{}
+*Affiliation* \n
+[http://www-control.eng.cam.ac.uk/ Control group] \n 
+[http://www.eng.cam.ac.uk/ Department of Engineering] \n
+[https://www.cam.ac.uk/ University of Cambridge] \n\n\n\n
+*Contact details* \n
+Trumpington Street \n
+Cambridge CB2 1PZ \n
+United Kingdom \n 
+/hv280/(@)/cam/(dot)/ac/(dot)/uk/
+~~~
+
+\n
+I am a postdoctoral researcher at Cambridge University, where I work with Professor [https://sites.google.com/site/rsepulchre/ Rodolphe Sepulchre].
+\n
+For my bio and a summary of my CV, check out [bio.html this page]. 
+\n 
+Also feel free to browse through my [publications.html publications], preprints and updates linked below. 
+
+== News
++June 2021:+ I am the recipient of the /2020 DISC Best Ph.D. Thesis Award/! The prize is awarded annually by the [http://disc.tudelft.nl/about/ Dutch Institute of Systems and Control]. 
+
+== Research
+My research interests lie in the field of systems and control. At a high level, I aim to develop a systems and control theory that is grounded on measured data
+rather than mathematical models. \n 
+I work towards mapping raw data into models and control policies with rigorous guarantees on accuracy, stability and performance,
+while answering key questions such as: /how much data is needed?/, /how to handle noise?/ and /how to perform control-relevant experiments?/
+
+Some of the specific topics of interest are:
+- Direct data-driven control 
+- System identifiability and identification
+- Experiment design 
+- Applications to networked systems and neuroscience
+
+We have recently approached the question of how much data is required via the concept of /informativity/, which is explored for several control problems in:
+- [https://arxiv.org/abs/1908.00468 Data informativity: a new perspective for data-driven analysis and control]
+
+To address robustness of controllers with respect to noise and bounded nonlinearities, I have worked on generalizations of the S-lemma and Finsler's lemma: 
+- [https://arxiv.org/abs/2006.00870 From noisy data to feedback controllers: non-conservative design via a matrix S-lemma]
+- [https://arxiv.org/abs/2103.13461 A matrix Finsler's lemma with applications to data-driven control]
+
+Some other recent work involves the problem of experiment design:
+- [https://arxiv.org/abs/2102.11193 Beyond persistent excitation: online experiment design for data-driven modeling and control]
+- [https://arxiv.org/abs/2002.01023 Willems' fundamental lemma for state-space systems and its extension to multiple datasets]
+
+A complete list of my publications and preprints can be found [publications.html here] or on my [https://scholar.google.com/citations?user=4K5iBboAAAAJ&hl=en Google Scholar] page\.
