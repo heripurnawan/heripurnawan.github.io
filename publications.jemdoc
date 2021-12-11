@@ -4,6 +4,10 @@
 
 == Journal publications 
 
+- \[J15\] H. L. Trentelman, H. J. van Waarde, and M. K. Camlibel, "An informativity approach to the data-driven algebraic regulator problem", \n 
+/to appear in IEEE Transactions on Automatic Control/, 2021. [https://ieeexplore.ieee.org/abstract/document/9622139 \[Publisher\]] [https://arxiv.org/abs/2009.01552 \[arXiv\]] 
+- \[J14\] J. Jia, B. M. Shali, H. J. van Waarde, M. K. Camlibel, and H. L. Trentelman, "Scalable controllability analysis of structured networks", \n
+/to appear in IEEE Transactions on Networked Systems/, 2021. [https://ieeexplore.ieee.org/document/9601287 \[Publisher\]] [https://arxiv.org/abs/2012.09087 \[arXiv\]]
 - \[J13\] H. J. van Waarde, M. K. Camlibel, P. Rapisarda, and H. L. Trentelman, "Data-driven dissipativity analysis: application of the matrix S-lemma", \n
 /to appear in IEEE Control Systems Magazine/, 2022 [https://arxiv.org/abs/2109.02090 \[arXiv\]]. 
 - \[J12\] H. J. van Waarde, "Beyond Persistent Excitation: Online Experiment Design for Data-Driven Modeling and Control", \n 
@@ -69,10 +73,8 @@
 
 == Preprints and submitted papers 
 
-- \[P1\] J. Jia, B. M. Shali, H. J. van Waarde, M. K. Camlibel, and H. L. Trentelman, "Scalable controllability analysis of structured networks", \n
-/accepted for publication in IEEE Transactions on Networked Systems/, 2021. [https://arxiv.org/abs/2012.09087 \[arXiv\]]
-- \[P2\] H. L. Trentelman, H. J. van Waarde, and M. K. Camlibel, "An informativity approach to data-driven tracking and regulation", \n 
-/submitted for publication in IEEE Transactions on Automatic Control/, 2021. [https://arxiv.org/abs/2009.01552 \[arXiv\]] 
-- \[P3\] H.J. van Waarde and R. Sepulchre, "Kernel-based models for system analysis", \n 
+- \[P1\] H.J. van Waarde and R. Sepulchre, "Kernel-based models for system analysis", \n 
 /submitted for publication in IEEE Transactions on Automatic Control/, 2021. [https://arxiv.org/abs/2110.11735 \[arXiv\]] 
+- \[P2\] H.J. van Waarde and R. Sepulchre, "Training Lipschitz continuous operators using reproducing kernels", \n 
+/submitted to Learning for Dynamics and Control Conference/, 2021. [https://arxiv.org/abs/2112.03344 \[arXiv\]] 
 
