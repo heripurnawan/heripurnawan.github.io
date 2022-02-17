@@ -77,4 +77,9 @@
 /submitted for publication in IEEE Transactions on Automatic Control/, 2021. [https://arxiv.org/abs/2110.11735 \[arXiv\]] 
 - \[P2\] H.J. van Waarde and R. Sepulchre, "Training Lipschitz continuous operators using reproducing kernels", \n 
 /submitted to Learning for Dynamics and Control Conference/, 2021. [https://arxiv.org/abs/2112.03344 \[arXiv\]] 
-
+- \[P3\] J. Coulson, H.J. van Waarde, and F. Dörfler, "Robust Fundamental Lemma for Data-driven Control", \n
+/submitted to International Symposium on Mathematical Theory of Networks and Systems/, 2022. [papers/MTNS2022_robustFL.pdf \[PDF\]]
+- \[P4\] H.J. van Waarde, M.K. Camlibel, P. Rapisarda, and H.L. Trentelman, "Data-driven dissipativity analysis of linear systems", \n
+/submitted to International Symposium on Mathematical Theory of Networks and Systems/, 2022. 
+- \[P5\] H.J. van Waarde, M.K. Camlibel, H.L. Trentelman, and J. Eising, "A behavioral approach to data-driven control using noisy input-output data", \n
+/submitted to International Symposium on Mathematical Theory of Networks and Systems/, 2022. 
