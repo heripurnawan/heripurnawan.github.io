@@ -25,18 +25,17 @@ For my bio and a summary of my CV, check out [bio.html this page].
 Also feel free to browse through my [publications.html publications], preprints and updates linked below. 
 
 == News
-+July 2022:+ I am honored to receive the [http://www.eeci-igsc.eu/eeciphdaward/ /EECI PhD Award/]! The prize is awarded anually by the [http://www.eeci-igsc.eu/ European Embedded Control Institute] for the best PhD thesis in Systems & Control in Europe. \n
++July 2022:+ I am honored to receive the [http://www.eeci-igsc.eu/eeciphdaward/ /EECI PhD Award/]! The prize is awarded anually by the [http://www.eeci-igsc.eu/ European Embedded Control Institute]. \n
 +June 2022:+ Very happy to share our new results on a [https://arxiv.org/abs/2206.08408 behavioral approach to data-driven control], using the concept of quadratic difference forms. \n
 +January 2022:+ I am honored to receive the [https://www.rug.nl/research/bernoulli/news/2022/bernoulli-best-thesis-awards /2021 Bernoulli Institute's Best Ph.D. Thesis Award in Mathematics/]! \n
-+December 2021:+ I am honored to receive the [https://ieeetv.ieee.org/CDC_2021 /2021 IEEE Control Systems Letters Outstanding Paper Award/] for [https://ieeexplore.ieee.org/document/9062331 this paper], coauthored with Claudio De Persis, Kanat Camlibel and Pietro Tesi! \n
++December 2021:+ I am honored to receive the [https://ieeetv.ieee.org/CDC_2021 /2021 IEEE Control Systems Letters Outstanding Paper Award/] for [https://ieeexplore.ieee.org/document/9062331 this paper], coauthored with C. De Persis, K. Camlibel and P. Tesi! \n
 +November 2021:+ I'm excited to announce that I'll join the University of Groningen as an assistant professor in January 2022! \n
 +October 2021:+ Happy to share our new paper on [https://arxiv.org/pdf/2110.11735.pdf kernel-based models], bridging data-based learning and system analysis via integral quadratic constraints.\n
 +June 2021:+ I am honored to receive the /2020 DISC Best Ph.D. Thesis Award/! The prize is awarded annually by the [http://disc.tudelft.nl/about/ Dutch Institute of Systems and Control]. 
 
 == Research
-My research interests lie in the field of systems and control. At a high level, I aim to develop a systems and control theory that is grounded on measured data
-rather than mathematical models. \n 
-I work towards mapping raw data into models and control policies with rigorous guarantees on accuracy, stability and performance,
+My research interests lie in the field of systems and control. I aim to develop a systems and control theory that is grounded on measured data
+rather than mathematical models. I work towards mapping raw data into models and control policies with rigorous guarantees on accuracy, stability and performance,
 while answering key questions such as: /how much data is needed?/, /how to handle noise?/ and /how to perform control-relevant experiments?/
 
 Some of the specific topics of interest are:
@@ -49,10 +48,12 @@ We have recently approached the question of how much data is required via the co
 - [https://arxiv.org/abs/1908.00468 Data informativity: a new perspective for data-driven analysis and control]
 
 To address robustness of controllers with respect to noise and bounded nonlinearities, I have worked on generalizations of the S-lemma and Finsler's lemma: 
+- [https://arxiv.org/abs/2203.12959 Quadratic matrix inequalities with applications to data-based control]
 - [https://arxiv.org/abs/2006.00870 From noisy data to feedback controllers: non-conservative design via a matrix S-lemma]
 - [https://arxiv.org/abs/2103.13461 A matrix Finsler's lemma with applications to data-driven control]
 
 Some other recent work involves the problem of experiment design:
+- [https://ieeexplore.ieee.org/abstract/document/9882335 A persistency of excitation condition for continuous-time systems]
 - [https://arxiv.org/abs/2102.11193 Beyond persistent excitation: online experiment design for data-driven modeling and control]
 - [https://arxiv.org/abs/2002.01023 Willems' fundamental lemma for state-space systems and its extension to multiple datasets]
 
