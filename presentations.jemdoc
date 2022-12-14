@@ -1,0 +1,20 @@
+# jemdoc: menu{menu.jemdoc}{presentations.html}
+== Presentations and talks
+
+== IEEE Conference on Decision and Control 2022, Cancun Mexico
+
+~~~
+{}{img_left}{./thumbnails/CDC2022/Workshop_CDC_2022.png}{workshopCDC22}{300}{200}{./slides/CDC2022/Workshop_CDC_2022.pdf}
+/On quadratic matrix inequalities for data-driven control/
+~~~
+
+~~~
+{}{img_left}{./thumbnails/CDC2022/EECI_CDC_2022.png}{EECICDC22}{300}{200}{./slides/CDC2022/EECI_CDC_2022.pdf}
+/The informativity approach to data-driven analysis and control/
+~~~
+
+~~~
+{}{img_left}{./thumbnails/CDC2022/CLF_CDC_2022.png}{CLFCDC22}{300}{175}{./slides/CDC2022/CLF_CDC_2022.pdf}
+/Data-based analysis and design beyond common Lyapunov functions/
+~~~
+

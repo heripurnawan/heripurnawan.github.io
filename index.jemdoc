@@ -22,16 +22,18 @@ I am also a member of the [https://www.rug.nl/research/fse/themes/dssc/about-dss
 \n 
 For my bio and a summary of my CV, check out [bio.html this page]. 
 \n 
-Also feel free to browse through my [publications.html publications], preprints and updates linked below. 
+Also feel free to browse through my [publications.html publications], [presentations.html presentations] and updates linked below. 
 
 == News
++December 2022:+ I gave three presentations at the [https://cdc2022.ieeecss.org/ IEEE Conference on Decision and Control], slides are available [presentations.html here]. \n
 +July 2022:+ I am honored to receive the [http://www.eeci-igsc.eu/eeciphdaward/ /EECI PhD Award/]! The prize is awarded anually by the [http://www.eeci-igsc.eu/ European Embedded Control Institute]. \n
 +June 2022:+ Very happy to share our new results on a [https://arxiv.org/abs/2206.08408 behavioral approach to data-driven control], using the concept of quadratic difference forms. \n
 +January 2022:+ I am honored to receive the [https://www.rug.nl/research/bernoulli/news/2022/bernoulli-best-thesis-awards /2021 Bernoulli Institute's Best Ph.D. Thesis Award in Mathematics/]! \n
 +December 2021:+ I am honored to receive the [https://ieeetv.ieee.org/CDC_2021 /2021 IEEE Control Systems Letters Outstanding Paper Award/] for [https://ieeexplore.ieee.org/document/9062331 this paper], coauthored with C. De Persis, K. Camlibel and P. Tesi! \n
 +November 2021:+ I'm excited to announce that I'll join the University of Groningen as an assistant professor in January 2022! \n
 +October 2021:+ Happy to share our new paper on [https://arxiv.org/pdf/2110.11735.pdf kernel-based models], bridging data-based learning and system analysis via integral quadratic constraints.\n
-+June 2021:+ I am honored to receive the /2020 DISC Best Ph.D. Thesis Award/! The prize is awarded annually by the [http://disc.tudelft.nl/about/ Dutch Institute of Systems and Control]. 
+
+# +June 2021:+ I am honored to receive the /2020 DISC Best Ph.D. Thesis Award/! The prize is awarded annually by the [http://disc.tudelft.nl/about/ Dutch Institute of Systems and Control]. 
 
 == Research
 My research interests lie in the field of systems and control. I aim to develop a systems and control theory that is grounded on measured data
