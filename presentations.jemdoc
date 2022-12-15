@@ -1,4 +1,5 @@
-# jemdoc: menu{menu.jemdoc}{presentations.html}
+# jemdoc: menu{menu.jemdoc}{presentations.html}, nofooter
+
 == Presentations and talks
 
 == IEEE Conference on Decision and Control 2022, Cancun Mexico
