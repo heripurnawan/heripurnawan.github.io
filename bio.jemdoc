@@ -1,4 +1,4 @@
-# jemdoc: menu{menu.jemdoc}{bio.html}
+# jemdoc: menu{menu.jemdoc}{bio.html}, nofooter
 == Bio and CV
 
 == Education
