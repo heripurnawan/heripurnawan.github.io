@@ -4,10 +4,16 @@
 
 == Journal publications 
 
-- \[J17\] H.J. van Waarde and R. Sepulchre, "Kernel-based models for system analysis", \n 
+- \[J20\] H.J. van Waarde, M.K. Camlibel, J. Eising, and H.L. Trentelman, "Quadratic matrix inequalities with applications to data-based control", \n /to appear in SIAM Journal on Control and Optimization/, 2023.
+[https://arxiv.org/abs/2203.12959 \[arXiv\]]
+- \[J19\] J. Coulson, H.J. van Waarde, J. Lygeros, and F. Dörfler, "A quantitative notion of persistency of excitation and the robust fundamental lemma", \n /to appear in IEEE Control Systems Letters/, 2023.
+[https://ieeexplore.ieee.org/document/9999281 \[Publisher\]]
+- \[J18\] H.J. van Waarde and R. Sepulchre, "Kernel-based models for system analysis", \n 
 /to appear in IEEE Transactions on Automatic Control/, Sept. 2023. [https://arxiv.org/abs/2110.11735 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/9935290 \[Publisher\]]
-- \[J16\] P. Rapisarda, M.K. Çamlibel and H.J. van Waarde, "A Persistency of Excitation Condition for Continuous-Time Systems," \n
+- \[J17\] P. Rapisarda, M.K. Çamlibel and H.J. van Waarde, "A Persistency of Excitation Condition for Continuous-Time Systems," \n
 /in IEEE Control Systems Letters/, vol. 7, pp. 589--594, 2023. [https://ieeexplore.ieee.org/abstract/document/9882335/ \[Publisher\]]
+- \[J16\] S. Gherardini, H.J. van Waarde, P. Tesi and F. Caruso, "Topology identification of autonomous quantum dynamical networks", \n /in Physical Review A/, vol. 106, no. 5, pp. 052426, Nov. 2022.
+[https://arxiv.org/abs/2111.00812 \[arXiv\]]
 - \[J15\] H.L. Trentelman, H.J. van Waarde, and M.K. Camlibel, "An informativity approach to the data-driven algebraic regulator problem", \n 
 /in IEEE Transactions on Automatic Control/, vol. 67, no. 11, pp. 6227--6233, Nov. 2022. [https://arxiv.org/abs/2009.01552 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/9622139 \[Publisher\]]
 - \[J14\] J. Jia, B.M. Shali, H. J. van Waarde, M.K. Camlibel, and H.L. Trentelman, "Scalable controllability analysis of structured networks", \n
@@ -93,17 +99,12 @@
 - \[T1\] H.J. van Waarde, "Fault detection and isolation in water distribution networks", /Bachelor's thesis, University of Groningen/, 2014.
 
 == Preprints and submitted papers
-- \[P6\] P. Rapisarda, H.J. van Waarde, and M.K. Camlibel, "Data-driven simulation of continuous-time linear time-invariant systems: the autonomous case", \n
+- \[P4\] P. Rapisarda, H.J. van Waarde, and M.K. Camlibel, "Data-driven simulation of continuous-time linear time-invariant systems: the autonomous case", \n
 /submitted to IFAC World Congress/, 2023.
-- \[P5\] P. Rapisarda, M.K. Camlibel, and H.J. van Waarde, "Orthogonal bases for data-driven analysis and control of continuous-time systems", \n
+- \[P3\] P. Rapisarda, M.K. Camlibel, and H.J. van Waarde, "Orthogonal bases for data-driven analysis and control of continuous-time systems", \n
 /submitted for publication in IEEE Transactions on Automatic Control/, 2022.  
-- \[P4\] H.J. van Waarde, J. Eising, M.K. Camlibel, and H.L. Trentelman, "The informativity approach to data-driven analysis and control", \n
-/submitted for publication in IEEE Control Systems Magazine/, 2022.
-- \[P3\] S. Gherardini, H.J. van Waarde, P. Tesi, F. Caruso, "Topology identification of autonomous quantum dynamical networks", \n
-/accepted for publication in Physical Review A/, 2022. [https://arxiv.org/abs/2111.00812 \[arXiv\]]
-- \[P2\] H.J. van Waarde, M.K. Camlibel, J. Eising, and H.L. Trentelman, "Quadratic matrix inequalities with applications to data-based control
-",
-\n /submitted for publication in SIAM Journal on Control and Optimization/, 2022. [https://arxiv.org/abs/2203.12959 \[arXiv\]] 
+- \[P2\] H.J. van Waarde, J. Eising, M.K. Camlibel, and H.L. Trentelman, "The informativity approach to data-driven analysis and control", \n
+/submitted for publication in IEEE Control Systems Magazine/, 2022. [https://arxiv.org/abs/2302.10488 \[arXiv\]]
 - \[P1\] H.J. van Waarde, J. Eising, M.K. Camlibel, and H.L. Trentelman, "A behavioral approach to data-driven control with noisy input-output data",
 \n /submitted for publication in IEEE Transactions on Automatic Control/, 2022. [https://arxiv.org/abs/2206.08408 \[arXiv\]] 
  

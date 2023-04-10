@@ -1,7 +1,14 @@
 # jemdoc: menu{menu.jemdoc}{presentations.html}, nofooter
 == Presentations and talks
 
-== IEEE Conference on Decision and Control 2022, Cancun Mexico
+== SIAM Conference on Computational Science and Engineering 2023 (Amsterdam, Netherlands)
+
+~~~
+{}{img_left}{./thumbnails/SIAMCSE2023/learning.PNG}{}{300}{200}{./slides/SIAMCSE2023/presentation.pdf}
+/Learning Stabilizing and Optimal Controllers from Data: An Informativity Approach/
+~~~
+
+== IEEE Conference on Decision and Control 2022 (Cancún, Mexico)
 
 ~~~
 {}{img_left}{./thumbnails/CDC2022/Workshop2022.PNG}{}{300}{200}{./slides/CDC2022/Workshop_CDC_2022.pdf}
