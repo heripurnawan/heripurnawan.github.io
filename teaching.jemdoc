@@ -1,16 +1,19 @@
 # jemdoc: menu{menu.jemdoc}{teaching.html}, nofooter
 == Teaching and supervision
 
-== Students 
+== Supervision 
+
+*Postdocs:*
+- Brayan Shali (co-supervised with Rodolphe Sepulchre)
 
 *PhD students:*
 - Marieke Heidema (co-supervised with Bart Besselink)
-- Jiwei Wang (visiting PhD, co-supervised with Simone Baldi)
+- Jiwei Wang (co-supervised with Simone Baldi)
 - Amir Shakouri (co-supervised with Kanat Camlibel)
 - Huayuan Huang (co-supervised with Raffaella Carloni and Kanat Camlibel)
 
 *Master students:* 
-- Lisa Oosterhof
+- Jordan van Ekelenburg (co-supervised with Wim Krijnen)
 
 *Bachelor students:* 
 - Encho Nguyen (honours college project)
@@ -18,6 +21,7 @@
 == Past projects
 
 *Master:*
+- Lisa Oosterhof, /On the identification of hysteretic deformable mirrors using kernel methods/
 - Christina Paschou, /Algorithms for LMIs arising in data-driven control/
 - Brayan Shali, /Strong structural properties of linear systems/
 
@@ -33,6 +37,12 @@
 == Courses
 
 Below a list of courses I (co-)lecture \n
+
+*2023-2024:*
+
+- [https://ocasys.rug.nl/current/catalog/course/WMMA021-05 Robust Control]
+- [https://ocasys.rug.nl/current/catalog/course/WMMA058-05 Data-based Analysis and Control]
+- [https://ocasys.rug.nl/current/catalog/course/WBMA035-05 Linear Algebra 2]
 
 *2022-2023:*
 
