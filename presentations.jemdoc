@@ -1,10 +1,10 @@
-# jemdoc: menu{menu.jemdoc}{presentations.html}, nofooter
+# jemdoc: menu{menu.jemdoc}{presentations.html},  nofooter
 == Presentations and talks
 
 == SIAM Conference on Computational Science and Engineering 2023 (Amsterdam, Netherlands)
 
 ~~~
-{}{img_left}{./thumbnails/SIAMCSE2023/Learning.jpg}{}{300}{200}{./slides/SIAMCSE2023/presentation.pdf}
+{}{img_left}{./thumbnails/SIAMCSE2023/Learning.JPG}{}{300}{200}{./slides/SIAMCSE2023/presentation.pdf}
 /Learning Stabilizing and Optimal Controllers from Data: An Informativity Approach/
 ~~~
 
@@ -20,7 +20,7 @@
 /The informativity approach to data-driven analysis and control/
 ~~~
 
-~~~
+~~~ 
 {}{img_left}{./thumbnails/CDC2022/CLF2022.JPG}{}{300}{175}{./slides/CDC2022/CLF_CDC_2022.pdf}
 /Data-based analysis and design beyond common Lyapunov functions/
 ~~~
