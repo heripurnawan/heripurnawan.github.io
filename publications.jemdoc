@@ -7,11 +7,12 @@
 /to appear in IEEE Transactions on Automatic Control/, 2024.
 [https://ieeexplore.ieee.org/abstract/document/10268593 \[Publisher\]]
 - \[J23\] H.J. van Waarde, J. Eising, M.K. Camlibel, and H.L. Trentelman, "A behavioral approach to data-driven control with noisy input-output data", \n
-/to appear in IEEE Transactions on Automatic Control/, Feb. 2024.
+/in IEEE Transactions on Automatic Control/, vol. 69, no. 2, pp. 813--827, Feb. 2024.
 [https://arxiv.org/pdf/2206.08408.pdf \[arXiv\]]
 [https://ieeexplore.ieee.org/abstract/document/10122597 \[Publisher\]]
-- \[J22\] H.J. van Waarde, J. Eising, M.K. Camlibel, and H.L. Trentelman, "The informativity approach to data-driven analysis and control", \n /to appear in IEEE Control Systems Magazine/, 2023.
+- \[J22\] H.J. van Waarde, J. Eising, M.K. Camlibel, and H.L. Trentelman, "The informativity approach to data-driven analysis and control", \n /in IEEE Control Systems Magazine/, vol. 43, no. 6, pp. 32--66, Dec. 2023.
 [https://arxiv.org/abs/2302.10488 \[arXiv\]]
+[https://ieeexplore.ieee.org/document/10317631 \[Publisher\]]
 - \[J21\] P. Rapisarda, M.K. Camlibel, and H.J. van Waarde, "A fundamental lemma for continuous-time systems, with applications to data-driven simulation", \n /in Systems and Control Letters/, vol. 179, pp. 105603, 2023.
 [https://www.sciencedirect.com/science/article/pii/S0167691123001500 \[Publisher\]]
 - \[J20\] H.J. van Waarde, M.K. Camlibel, J. Eising, and H.L. Trentelman, "Quadratic matrix inequalities with applications to data-based control", \n /in SIAM Journal on Control and Optimization/, vol. 61, no. 4, pp. 2251--2281, 2023.
@@ -58,8 +59,10 @@
 
 == Conference publications
 
+- \[C14\] T. Chaffey, H.J. van Waarde, and R. Sepulchre, "Relaxation systems and cyclic monotonicity", \n
+/in Proceedings of the IEEE Conference on Decision and Control/, Singapore, Singapore, pp. 1673--1679, 2023. [https://arxiv.org/abs/2312.03389 \[arXiv\]] [https://ieeexplore.ieee.org/document/10384160 \[Publisher\]]
 - \[C13\] P. Rapisarda, H.J. van Waarde, and M.K. Camlibel, "Data-driven simulation of continuous-time linear time-invariant systems: the autonomous case", \n
-/to appear in Proceedings of the IFAC World Congress/, 2023.
+/in Proceedings of the IFAC World Congress/, Yokohama, Japan, pp. 2244--2249, 2023. [https://www.sciencedirect.com/science/article/pii/S2405896323015926 \[Publisher\]]
 - \[C12\] V.K. Mishra, H.J. van Waarde, and N. Bajcinca, "Data-Driven Criteria for Detectability and Observer Design for LTI Systems", \n
 /in Proceedings of the IEEE Conference on Decision and Control/, Cancún, Mexico, pp. 4846--4852, 2022. [https://ieeexplore.ieee.org/abstract/document/9992632 \[Publisher\]]
 - \[C11\] H.J. van Waarde, J. Eising, M.K. Camlibel, and H.L. Trentelman, "A tutorial on the informativity framework for data-driven control", \n
@@ -88,6 +91,11 @@
 
 == Peer-reviewed extended abstracts
 
+- \[E7\] M.K. Camlibel, H.J. van Waarde, and P. Rapisarda, "The shortest experiment for linear system identification", \n
+/to appear in International Symposium on Mathematical Theory of Networks and Systems/,
+Cambridge, United Kingdom, 2024.
+- \[E6\] B. Shali and H.J. van Waarde, "Towards a representer theorem for identification of passive systems", \n
+/to appear in International Symposium on Mathematical Theory of Networks and Systems/, Cambridge, United Kingdom, 2024.
 - \[E5\] H.J. van Waarde, M.K. Camlibel, H.L. Trentelman, and J. Eising, "A behavioral approach to data-driven control using noisy input-output data", \n
 /in International Symposium on Mathematical Theory of Networks and Systems/, Bayreuth, Germany, 2022. 
 - \[E4\] H.J. van Waarde, M.K. Camlibel, P. Rapisarda, and H.L. Trentelman, "Data-driven dissipativity analysis of linear systems", \n
@@ -111,6 +119,9 @@
 - \[T1\] H.J. van Waarde, "Fault detection and isolation in water distribution networks", /Bachelor's thesis, University of Groningen/, 2014.
 
 == Preprints and submitted papers
+- \[P3\] B. Shali and H.J. van Waarde, "Towards a representer theorem for identification of passive systems", \n
+/submitted for publication in Proceedings of the IEEE Conference on Decision and Control/, 2024. [https://arxiv.org/pdf/2404.08297 \[arXiv\]]
+- \[P2\] A. Shakouri, H.J. van Waarde, and M.K. Camlibel, "System Identification using Energy-Bounded Noise Models: A Full Characterization of Chebyshev Centers and Radii", \n /submitted for publication in IEEE Control Systems Letters/, 2024. [https://arxiv.org/abs/2403.05315 \[arXiv\]]
 - \[P1\] J. Wang, S. Baldi, and H.J. van Waarde, "Necessary and Sufficient Conditions for Data-driven Model Reference Control", \n
 /submitted for publication in IEEE Transactions on Automatic Control/, 2023. [https://arxiv.org/abs/2310.11159 \[arXiv\]]
  
