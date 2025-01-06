@@ -4,30 +4,31 @@
 == Supervision 
 
 *Postdocs:*
-- Brayan Shali (co-supervised with Rodolphe Sepulchre)
+- Brayan Shali (co-supervisor: Rodolphe Sepulchre)
 
 *PhD students:*
-- Marieke Heidema (co-supervised with Bart Besselink)
-- Jiwei Wang (co-supervised with Simone Baldi)
-- Amir Shakouri (co-supervised with Kanat Camlibel)
-- Huayuan Huang (co-supervised with Raffaella Carloni and Kanat Camlibel)
+- Jordan van Ekelenburg (co-supervisor: Femke Vossepoel)
+- Marieke Heidema (co-supervisor: Bart Besselink)
+- Jiwei Wang (co-supervisor: Simone Baldi)
+- Amir Shakouri (co-supervisor: Kanat Camlibel)
+- Huayuan Huang (co-supervisors: Raffaella Carloni and Kanat Camlibel)
 
 *Master students:* 
 - Michaela Repasova 
-- Robin Bulsink (co-supervised with Kanat Camlibel) 
-- Jordan van Ekelenburg (co-supervised with Wim Krijnen)
+- Robin Bulsink (co-supervisor: Kanat Camlibel) 
 
-*Bachelor students:* 
-- Encho Nguyen
+#*Bachelor students:* 
 
 == Past projects
 
 *Master:*
+- Jordan van Ekelenburg, /Robust estimation theory for dynamical systems under stable error models/
 - Lisa Oosterhof, /On the identification of hysteretic deformable mirrors using kernel methods/
 - Christina Paschou, /Algorithms for LMIs arising in data-driven control/
 - Brayan Shali, /Strong structural properties of linear systems/
 
 *Bachelor:*
+- Encho Nguyen, /Positive linear systems/
 - Encho Nguyen (honours college project), /Synthesis of dissipative systems using input-state data/
 - Lot van Neerbos, /Lipschitz constant estimation of neural networks/
 - Jeroen Lammers, /A MATLAB toolbox for data-driven control/
@@ -40,6 +41,12 @@
 == Courses
 
 Below a list of courses I (co-)lecture \n
+
+*2024-2025:*
+
+- [https://ocasys.rug.nl/current/catalog/course/WBMA035-05 Linear Algebra 2]
+- [https://disc.tudelft.nl/wp-content/uploads/2024/10/2025_Data-Driven-Control.pdf Data-driven Control]
+- [https://ocasys.rug.nl/current/catalog/course/WMMA021-05 Robust Control]
 
 *2023-2024:*
 

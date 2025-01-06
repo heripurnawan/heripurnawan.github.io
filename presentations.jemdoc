@@ -1,6 +1,14 @@
 # jemdoc: menu{menu.jemdoc}{presentations.html}, nofooter
 == Presentations and talks
 
+== IEEE Conference on Decision and Control 2024 (Milan, Italy)
+
+~~~
+{}{img_left}{./thumbnails/CDC2024/CDC2024.PNG}{}{300}{200}{./slides/CDC2024/CDC2024.pdf}
+/The shortest experiment for linear system identification/
+~~~
+
+
 == Benelux meeting on Systems and Control 2024 (Blankenberge, Belgium)
 
 ~~~
