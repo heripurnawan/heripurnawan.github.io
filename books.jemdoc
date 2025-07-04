@@ -1,0 +1,31 @@
+# jemdoc: menu{menu.jemdoc}{books.html}, nofooter
+== Books and chapters
+
+== Books
+
+~~~
+{2}
+H.J. van Waarde, M.K. Camlibel, and H.L. Trentelman \n
+*Data-based linear systems and control theory* \n
+/Kindle Direct Publishing/, First edition, 2025\n
+[./dblsct.html \[Website\]]
+~~~
+
+~~~
+{1}
+ H.J. van Waarde \n
+*From data and structure to models and controllers* \n
+/PhD thesis, University of Groningen/, 2020\n
+[https://research.rug.nl/nl/publications/from-data-and-structure-to-models-and-controllers \[Publisher\]]
+~~~
+
+== Book chapters
+
+~~~
+{1}
+H.J. van Waarde, N. Monshizadeh, H.L. Trentelman, and M.K. Camlibel \n
+*Strong structural controllability and zero forcing* \n 
+/in Structural Methods in the Study of Complex Systems/ (Editors: E. Zattoni, A. Perdon, and G. Conte) \n 
+Lecture Notes in Control and Information Sciences, Springer, pp. 91--112, 2019 \n
+[https://link.springer.com/chapter/10.1007/978-3-030-18572-5_3 \[Publisher\]]
+~~~

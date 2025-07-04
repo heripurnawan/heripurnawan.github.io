@@ -6,12 +6,15 @@
 *Affiliation* \n
 [https://www.rug.nl/research/bernoulli/groups/sco/ Systems, Control and Optimization group] \n 
 [https://www.rug.nl/research/bernoulli/?lang=en Bernoulli Institute for Mathematics, Computer Science and AI] \n
-[https://www.rug.nl/ University of Groningen] \n\n\n\n
+[https://www.rug.nl/ University of Groningen] \n\n\n
 *Contact details* \n
 Nijenborgh 9 \n
 9747 AG Groningen \n
 The Netherlands \n 
-h.j.van.waarde(at)rug(dot)nl
+h.j.van.waarde(at)rug(dot)nl \n\n\n
+*Links* \n
+[https://tinyurl.com/23jd36th \[LinkedIn\]] \n
+[https://scholar.google.com/citations?user=4K5iBboAAAAJ&hl=en \[Google Scholar\]]
 ~~~
 
 \n
@@ -20,20 +23,23 @@ I am an assistant professor at the University of Groningen, where I work in the 
 I am also a member of the [https://www.rug.nl/research/fse/themes/dssc/about-dssc/ Centre for Data Science and Systems Complexity] and the
 [https://jcwcenter.web.rug.nl/ Jan C. Willems Center for Systems and Control].
 \n 
-For my bio and a summary of my CV, check out [bio.html this page]. 
+For my bio and a summary of my CV, see [bio.html this page]. 
 \n 
-Also feel free to browse through my [publications.html publications], [presentations.html presentations] and updates linked below. 
+Also feel free to browse through my [journal.html publications], [presentations.html presentations] and updates linked below. 
 
 == News
++ July 2025:+ Check out my [./dblsct.html /new book on data-driven control/], co-authored with Kanat Camlibel and Harry Trentelman! \n
++ June 2025:+ I gave a lecture at the [https://sites.google.com/rug.nl/discsummerschool2025/home?pli=1 DISC summer school] on experiment design for data-driven modeling and control. \n
 + April 2025:+ I co-lectured a 5-day course at IIT Mandi, India. All handouts are [presentations.html online]! \n
 + December 2024:+ We organized a workshop on data-driven control during the [https://cdc2024.ieeecss.org/ CDC] in Milan. Slides are available [https://sites.google.com/rug.nl/cdc24-workshop/home here]! \n
 + March 2024:+ I gave a mini-course on data-driven control at the [https://www.beneluxmeeting.nl/2024/ 2024 Benelux meeting on Systems and Control]. Slides are available [presentations.html here]! \n
-+ August 2023:+ I am grateful to the Dutch Research Council for funding my [https://www.nwo.nl/en/researchprogrammes/nwo-talent-programme/projects-veni/veni-2022 VENI project]! \n
-+April 2023:+ Our [https://arxiv.org/abs/2302.10488 overview paper on the informativity framework] was conditionally accepted for publication in the /IEEE Control Systems/! \n
-+December 2022:+ I gave three presentations at the [https://cdc2022.ieeecss.org/ IEEE Conference on Decision and Control], slides are available [presentations.html here]. \n
-+July 2022:+ I am honored to receive the [http://www.eeci-igsc.eu/eeciphdaward/ /EECI PhD Award/]! The prize is awarded anually by the [http://www.eeci-igsc.eu/ European Embedded Control Institute]. \n
 
 
+
+#+ August 2023:+ I am grateful to the Dutch Research Council for funding my [https://www.nwo.nl/en/researchprogrammes/nwo-talent-programme/projects-veni/veni-2022 VENI project]! \n
+#+April 2023:+ Our [https://arxiv.org/abs/2302.10488 overview paper on the informativity framework] was conditionally accepted for publication in the /IEEE Control Systems/! \n
+#+December 2022:+ I gave three presentations at the [https://cdc2022.ieeecss.org/ IEEE Conference on Decision and Control], slides are available [presentations.html here]. \n
+#+July 2022:+ I am honored to receive the [http://www.eeci-igsc.eu/eeciphdaward/ /EECI PhD Award/]! The prize is awarded anually by the [http://www.eeci-igsc.eu/ European Embedded Control Institute]. \n
 #+June 2022:+ Very happy to share our new results on a [https://arxiv.org/abs/2206.08408 behavioral approach to data-driven control], using the concept of quadratic difference forms. \n
 #+January 2022:+ I am honored to receive the [https://www.rug.nl/research/bernoulli/news/2022/bernoulli-best-thesis-awards /2021 Bernoulli Institute's Best Ph.D. Thesis Award in Mathematics/]! \n
 #+December 2021:+ I am honored to receive the [https://ieeetv.ieee.org/CDC_2021 /2021 IEEE Control Systems Letters Outstanding Paper Award/] for [https://ieeexplore.ieee.org/document/9062331 this paper], coauthored with C. De Persis, K. Camlibel and P. Tesi! \n
@@ -47,13 +53,13 @@ while answering key questions such as: /how much data is needed?/ /how to handle
 
 Some of the specific topics of interest are:
 - Direct data-driven control 
-- System identifiability
-- Kernel-based identification of (physical) dynamical systems
+- System identification
+- Kernel-based modeling of (physical) dynamical systems
 - Experiment design 
-- Applications to networked systems and neuroscience
+- Applications to networked systems and neuromorphic computing
 
-We have recently approached the question of how much data is required for control via the concept of /informativity/, which is explored for several control problems in:
-- [https://arxiv.org/abs/1908.00468 Data informativity: a new perspective for data-driven analysis and control]
+I am approaching the question of how much data is required for control via the concept of /data informativity/, see my [./dblsct.html new book] and the overview paper:
+- [https://ieeexplore.ieee.org/document/10317631 The informativity approach to data-driven analysis and control]
 
 To address robustness of controllers with respect to noise and bounded nonlinearities, I have worked on generalizations of the S-lemma and Finsler's lemma: 
 - [https://arxiv.org/abs/2203.12959 Quadratic matrix inequalities with applications to data-based control]
@@ -61,12 +67,13 @@ To address robustness of controllers with respect to noise and bounded nonlinear
 - [https://arxiv.org/abs/2103.13461 A matrix Finsler's lemma with applications to data-driven control]
 
 Kernel-based modeling for systems with (incremental) dissipativity properties is treated in the papers: 
+- [https://arxiv.org/abs/2404.08297 Towards a representer theorem for identification of passive systems]
 - [https://arxiv.org/abs/2110.11735 Kernel-based models for system analysis]
 - [https://arxiv.org/abs/2112.03344 Training Lipschitz continuous operators using reproducing kernels]
 
 Some other recent work involves the problem of experiment design:
+- [https://arxiv.org/abs/2407.12509 The shortest experiment for linear system identification]
 - [https://ieeexplore.ieee.org/abstract/document/9882335 A persistency of excitation condition for continuous-time systems]
 - [https://arxiv.org/abs/2102.11193 Beyond persistent excitation: online experiment design for data-driven modeling and control]
-- [https://arxiv.org/abs/2002.01023 Willems' fundamental lemma for state-space systems and its extension to multiple datasets]
 
-A complete list of my publications and preprints can be found [publications.html here] or on my [https://scholar.google.com/citations?user=4K5iBboAAAAJ&hl=en Google Scholar] page.
+A complete list of my publications and preprints can be found [journal.html here] or on my [https://scholar.google.com/citations?user=4K5iBboAAAAJ&hl=en Google Scholar] page.

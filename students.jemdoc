@@ -1,0 +1,40 @@
+# jemdoc: menu{menu.jemdoc}{students.html}, nofooter
+== Supervision 
+
+== Ongoing projects
+
+*Postdocs:*
+- Brayan Shali (co-supervisor: Rodolphe Sepulchre)
+
+*PhD students:*
+- Jordan van Ekelenburg (co-supervisor: Femke Vossepoel)
+- Marieke Heidema (co-supervisor: Bart Besselink)
+- Jiwei Wang (co-supervisor: Simone Baldi)
+- Amir Shakouri (co-supervisor: Kanat Camlibel)
+- Huayuan Huang (co-supervisors: Raffaella Carloni and Kanat Camlibel)
+
+*Master students:* 
+
+- Encho Nguyen
+
+== Past projects
+
+*Master:*
+- Robin Bulsink, /Conic programming duality with applications in systems and control theory/
+- Michaela Repasova, /Analysis and synthesis of dissipative systems using input-output data/
+- Jordan van Ekelenburg, /Robust estimation theory for dynamical systems under stable error models/
+- Lisa Oosterhof, /On the identification of hysteretic deformable mirrors using kernel methods/
+- Christina Paschou, /Algorithms for LMIs arising in data-driven control/
+- Brayan Shali, /Strong structural properties of linear systems/
+
+*Bachelor:*
+- Lars Wieringa, /A State-Space Approach to the Small Gain and Passivity Theorems/
+- Encho Nguyen, /Positive linear systems/
+- Encho Nguyen (honours college project), /Synthesis of dissipative systems using input-state data/
+- Lot van Neerbos, /Lipschitz constant estimation of neural networks/
+- Jeroen Lammers, /A MATLAB toolbox for data-driven control/
+- Rowan Timmermans, /Topology identification of complex networks of linear systems/
+- Joris Berendschot, /Model reduction of power grids via clustering/
+- Jeroen van Oostendorp, /Subspace identification in data centers/ 
+- Patrick Leferink, /System identification in data centers/
+- Warner Lensing, /Decentralized estimation of the algebraic connectivity/

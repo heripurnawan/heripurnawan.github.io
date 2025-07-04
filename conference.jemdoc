@@ -1,0 +1,190 @@
+# jemdoc: menu{menu.jemdoc}{conference.html}, nofooter
+== Conference papers
+
+~~~
+{24}
+M. Heidema, H.J. van Waarde, and B. Besselink \n
+*Learning in Memristive Electrical Circuits* \n
+/in Proceedings of the IEEE Conference on Decision and Control/, Milan, Italy, 2024, pp. 3930--3935, 2024\n
+[https://arxiv.org/abs/2409.15136 \[arXiv\]]
+[https://ieeexplore.ieee.org/document/10886685 \[Publisher\]]
+~~~
+
+~~~
+{23}
+B. Shali and H.J. van Waarde \n
+*Towards a representer theorem for identification of passive systems* \n
+/in Proceedings of the IEEE Conference on Decision and Control/, Milan, Italy, 2024, pp. 8760--8765, 2024\n
+[https://arxiv.org/abs/2404.08297 \[arXiv\]] [https://ieeexplore.ieee.org/document/10886345 \[Publisher\]]
+~~~
+
+~~~
+{22}
+M.K. Camlibel, H.J. van Waarde, and P. Rapisarda \n
+*The shortest experiment for linear system identification* \n
+/extended abstract in International Symposium on Mathematical Theory of Networks and Systems/,
+Cambridge, United Kingdom, 2024.
+~~~
+
+
+~~~
+{21}
+B. Shali and H.J. van Waarde \n
+*Towards a representer theorem for identification of passive systems* \n
+/extended abstract in International Symposium on Mathematical Theory of Networks and Systems/, Cambridge, United Kingdom, 2024.
+~~~
+
+
+~~~
+{20}
+N.T. Nguyen and H.J. van Waarde\n
+*Synthesis of Dissipative Systems Using Input-State Data* \n
+/in Proceedings of the European Control Conference/, Stockholm, Sweden, pp. 2959--2964, 2024 \n 
+[https://ieeexplore.ieee.org/document/10590889 \[Publisher\]] [https://arxiv.org/abs/2501.18330 \[arXiv\]]
+~~~
+
+~~~
+{19}
+T. Chaffey, H.J. van Waarde, and R. Sepulchre \n
+*Relaxation systems and cyclic monotonicity* \n
+/in Proceedings of the IEEE Conference on Decision and Control/, Singapore, Singapore, pp. 1673--1679, 2023\n [https://arxiv.org/abs/2312.03389 \[arXiv\]] [https://ieeexplore.ieee.org/document/10384160 \[Publisher\]]
+~~~
+
+~~~
+{18}
+P. Rapisarda, H.J. van Waarde, and M.K. Camlibel \n
+*Data-driven simulation of continuous-time linear time-invariant systems: the autonomous case* \n
+/in Proceedings of the IFAC World Congress/, Yokohama, Japan, pp. 2244--2249, 2023\n [https://www.sciencedirect.com/science/article/pii/S2405896323015926 \[Publisher\]]
+~~~
+
+~~~
+{17}
+V.K. Mishra, H.J. van Waarde, and N. Bajcinca \n 
+*Data-Driven Criteria for Detectability and Observer Design for LTI Systems* \n
+/in Proceedings of the IEEE Conference on Decision and Control/, Cancún, Mexico, pp. 4846--4852, 2022\n [https://ieeexplore.ieee.org/abstract/document/9992632 \[Publisher\]]
+~~~
+
+~~~
+{16}
+H.J. van Waarde, J. Eising, M.K. Camlibel, and H.L. Trentelman \n
+*A tutorial on the informativity framework for data-driven control* \n
+/in Proceedings of the IEEE Conference on Decision and Control/, Cancún, Mexico, pp.1085--1090, 2022\n
+[https://ieeexplore.ieee.org/abstract/document/9992611 \[Publisher\]]
+~~~
+
+~~~
+{15}
+H.J. van Waarde, M.K. Camlibel, and H.L. Trentelman\n
+*Data-driven analysis and design beyond common Lyapunov functions* \n
+/in Proceedings of the IEEE Conference on Decision and Control/, Cancún, Mexico, pp. 2783--2788, 2022 \n [https://ieeexplore.ieee.org/abstract/document/9992725 \[Publisher\]]
+~~~
+
+~~~
+{14}
+A. Padoan, J. Coulson, H.J. van Waarde, J. Lygeros, and F. Dörfler\n 
+*Behavioral uncertainty quantification for data-driven control* \n
+/in Proceedings of the IEEE Conference on Decision and Control/, Cancún, Mexico, pp. 4726--4731, 2022\n [https://arxiv.org/abs/2204.02671 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/9993002 \[Publisher\]]
+~~~
+
+
+~~~
+{13} 
+H.J. van Waarde, M.K. Camlibel, H.L. Trentelman, and J. Eising\n
+*A behavioral approach to data-driven control using noisy input-output data* \n
+/extended abstract in International Symposium on Mathematical Theory of Networks and Systems/, Bayreuth, Germany, 2022. 
+~~~
+
+
+~~~
+{12} 
+H.J. van Waarde, M.K. Camlibel, P. Rapisarda, and H.L. Trentelman\n
+*Data-driven dissipativity analysis of linear systems* \n
+/extended abstract in International Symposium on Mathematical Theory of Networks and Systems/, Bayreuth, Germany, 2022. 
+~~~
+
+
+~~~
+{11} 
+J. Coulson, H.J. van Waarde, and F. Dörfler\n
+*Robust Fundamental Lemma for Data-driven Control* \n
+/extended abstract in International Symposium on Mathematical Theory of Networks and Systems/, Bayreuth, Germany, 2022\n
+[https://arxiv.org/abs/2205.06636 \[arXiv\]]
+~~~
+
+
+~~~
+{10}
+H.J. van Waarde and R. Sepulchre \n
+*Training Lipschitz continuous operators using reproducing kernels* \n 
+/in Proceedings of Machine Learning Research (presented at Learning for Dynamics and Control Conference)/, vol. 168, pp. 221--233, June 2022\n
+[https://arxiv.org/abs/2112.03344 \[arXiv\]] [https://proceedings.mlr.press/v168/waarde22a.html \[Publisher\]]
+~~~
+
+~~~
+{9}
+Y. Yu, S. Talebi, H.J. van Waarde, U. Topcu, M. Mesbahi and B. Acikmese\n
+*On Controllability and Persistency of Excitation in Data-Driven Control: Extensions of Willems' Fundamental Lemma*\n 
+/in Proceedings of the IEEE Conference on Decision and Control/, Austin, TX, USA, pp. 6485--6490, 2021\n [https://arxiv.org/abs/2102.02953 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/9682952 \[Publisher\]]
+~~~
+
+~~~
+{8}
+J. Jiao, H.J. van Waarde, H.L. Trentelman, M.K. Camlibel, and S. Hirche\n
+*Data-driven output synchronization of heterogeneous leader-follower multi-agent systems
+* \n
+/in Proceedings of the IEEE Conference on Decision and Control/, Austin, TX, USA, pp. 466--471, 2021\n
+[https://arxiv.org/abs/2103.11851 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/9683073 \[Publisher\]]
+~~~
+
+~~~
+{7}
+H.J. van Waarde and M.K. Camlibel\n
+*A Matrix Finsler's Lemma with Applications to Data-Driven Control* \n
+/in Proceedings of the IEEE Conference on Decision and Control/, Austin, TX, USA, pp. 5777--5782, 2021\n
+[https://arxiv.org/abs/2103.13461 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/9683285 \[Publisher\]]
+~~~
+
+~~~
+{6} 
+H.J. van Waarde, J. Eising, H.L. Trentelman, and M.K. Camlibel\n
+*An exciting, but not persistently exciting perspective on data-driven analysis and control*\n
+/extended abstract in International Symposium on Mathematical Theory of Networks and Systems (cancelled due to COVID)/, Cambridge, United Kingdom, 2021. 
+~~~
+
+~~~
+{5}
+H.J. van Waarde, and M. Mesbahi \n
+*Data-driven parameterizations of suboptimal LQR and H2 controllers* \n
+/in Proceedings of the IFAC World Congress/, Berlin, Germany, pp. 4234--4239, 2020 \n
+[https://arxiv.org/abs/1912.07671 \[arXiv\]] [https://www.sciencedirect.com/science/article/pii/S240589632033175X \[Publisher\]]
+~~~
+
+~~~
+{4} 
+H.J. van Waarde, P. Tesi and M.K. Camlibel \n
+*Topology Identification of Heterogeneous Networks of Linear Systems* \n
+/in Proceedings of the IEEE Conference on Decision and Control/, Nice, France, pp. 5513--5518, 2019\n 
+[https://ieeexplore.ieee.org/abstract/document/9029564/ \[Publisher\]]
+~~~
+
+~~~
+{3}
+ H.J. van Waarde, P. Tesi, and M.K. Camlibel\n
+*Topological Conditions for Identifiability of Dynamical Networks with Partial Node Measurements* \n 
+/in Proceedings of the IFAC Workshop on Distributed Estimation and Control in Networked Systems/, Groningen, The Netherlands, pp. 319--324, 2018\n
+[https://arxiv.org/abs/1804.10799 \[arXiv\]] [https://www.sciencedirect.com/science/article/pii/S2405896318335870 \[Publisher\]]
+~~~
+
+~~~
+{2}
+H.J. van Waarde, P. Tesi, and M.K. Camlibel\n
+*Topology Reconstruction of Dynamical Networks via Constrained Lyapunov Equations* \n
+/in Proceedings of the International Conference on Complex Networks and Their Applications/, Lyon, France, pp. 187--189, 2017.
+~~~
+
+~~~
+{1}
+F. Veldman-de Roo, A. Tejada, H.J. van Waarde, and H.L. Trentelman \n
+*Towards observer-based fault detection and isolation for branched water distribution networks without cycles* \n 
+ /in Proceedings of the European Control Conference/, Linz, Austria, pp. 3280--3285, 2015\n [https://ieeexplore.ieee.org/abstract/document/7331040/ \[Publisher\]]
+~~~

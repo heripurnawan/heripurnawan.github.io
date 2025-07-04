@@ -1,0 +1,225 @@
+# jemdoc: menu{menu.jemdoc}{journal.html}, nofooter
+== Journal papers
+
+~~~
+{27} 
+A. Shakouri, H.J. van Waarde, and M.K. Camlibel \n
+*A New Perspective on Willems’ Fundamental Lemma: Universality of Persistently Exciting Inputs* \n
+/in IEEE Control Systems Letters/, vol. 9, pp. 583--588, 2025 \n
+[https://arxiv.org/abs/2503.12489 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/11022745 \[Publisher\]]
+~~~
+
+~~~
+{26} 
+M.K. Camlibel, H.J. van Waarde, and P. Rapisarda\n
+*The shortest experiment for linear system identification* \n
+/in Systems and Control Letters/, vol. 197, pp. 106045, 2025 \n
+[https://arxiv.org/abs/2407.12509 \[arXiv\]] [https://www.sciencedirect.com/science/article/abs/pii/S0167691125000271 \[Publisher\]]
+~~~
+
+
+~~~
+{25} 
+J. Wang, S. Baldi, and H.J. van Waarde \n
+*Necessary and Sufficient Conditions for Data-driven Model
+Reference Control* \n 
+/in IEEE Transactions on Automatic Control/, vol. 70, no. 4, pp. 2659--2666, April 2025 \n
+[https://arxiv.org/abs/2310.11159 \[arXiv\]]
+[https://ieeexplore.ieee.org/document/10741589 \[Publisher\]]
+~~~
+
+~~~
+{24} 
+P. Rapisarda, M.K. Camlibel, and H.J. van Waarde \n
+*Orthogonal bases for data-driven analysis and control of continuous-time systems* \n
+/in IEEE Transactions on Automatic Control/, vol. 69, no. 7, pp. 4307--4319, July 2024 \n
+[https://ieeexplore.ieee.org/abstract/document/10268593 \[Publisher\]]
+~~~
+
+~~~
+{23} 
+H.J. van Waarde, J. Eising, M.K. Camlibel, and H.L. Trentelman\n 
+*A behavioral approach to data-driven control with noisy input-output data* \n
+/in IEEE Transactions on Automatic Control/, vol. 69, no. 2, pp. 813--827, Feb. 2024\n
+[https://arxiv.org/pdf/2206.08408.pdf \[arXiv\]]
+[https://ieeexplore.ieee.org/abstract/document/10122597 \[Publisher\]]
+~~~
+
+~~~
+{22} 
+H.J. van Waarde, J. Eising, M.K. Camlibel, and H.L. Trentelman\n
+*The informativity approach to data-driven analysis and control* \n 
+/in IEEE Control Systems Magazine/, vol. 43, no. 6, pp. 32--66, Dec. 2023\n
+[https://arxiv.org/abs/2302.10488 \[arXiv\]]
+[https://ieeexplore.ieee.org/document/10317631 \[Publisher\]]
+~~~
+
+~~~
+{21} 
+P. Rapisarda, M.K. Camlibel, and H.J. van Waarde\n
+*A fundamental lemma for continuous-time systems, with applications to data-driven simulation* \n 
+/in Systems and Control Letters/, vol. 179, pp. 105603, 2023\n
+[https://www.sciencedirect.com/science/article/pii/S0167691123001500 \[Publisher\]]
+~~~
+
+~~~
+{20} 
+H.J. van Waarde, M.K. Camlibel, J. Eising, and H.L. Trentelman \n
+*Quadratic matrix inequalities with applications to data-based control* \n 
+/in SIAM Journal on Control and Optimization/, vol. 61, no. 4, pp. 2251--2281, 2023\n
+[https://arxiv.org/abs/2203.12959 \[arXiv\]]
+[https://epubs.siam.org/doi/abs/10.1137/22M1486807 \[Publisher\]]
+~~~
+
+~~~
+{19} 
+J. Coulson, H.J. van Waarde, J. Lygeros, and F. Dörfler\n
+*A quantitative notion of persistency of excitation and the robust fundamental lemma* \n 
+/in IEEE Control Systems Letters/, vol. 7, pp. 1243-1248, 2023\n
+[https://ieeexplore.ieee.org/document/9999281 \[Publisher\]]
+~~~
+
+~~~
+{18} 
+H.J. van Waarde and R. Sepulchre\n
+*Kernel-based models for system analysis* \n 
+/in IEEE Transactions on Automatic Control/, vol. 68, no. 9, pp. 5317--5332, Sept. 2023 \n
+[https://arxiv.org/abs/2110.11735 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/9935290 \[Publisher\]]
+~~~
+
+~~~
+{17}
+P. Rapisarda, M.K. Çamlibel and H.J. van Waarde\n
+*A Persistency of Excitation Condition for Continuous-Time Systems* \n
+/in IEEE Control Systems Letters/, vol. 7, pp. 589--594, 2023\n [https://ieeexplore.ieee.org/abstract/document/9882335/ \[Publisher\]]
+~~~
+
+~~~
+{16} 
+S. Gherardini, H.J. van Waarde, P. Tesi and F. Caruso\n
+*Topology identification of autonomous quantum dynamical networks* \n 
+/in Physical Review A/, vol. 106, no. 5, pp. 052426, Nov. 2022\n
+[https://arxiv.org/abs/2111.00812 \[arXiv\]]
+~~~
+
+~~~
+{15} 
+H.L. Trentelman, H.J. van Waarde, and M.K. Camlibel\n
+*An informativity approach to the data-driven algebraic regulator problem* \n 
+/in IEEE Transactions on Automatic Control/, vol. 67, no. 11, pp. 6227--6233, Nov. 2022\n
+[https://arxiv.org/abs/2009.01552 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/9622139 \[Publisher\]]
+~~~
+
+~~~
+{14}
+J. Jia, B.M. Shali, H. J. van Waarde, M.K. Camlibel, and H.L. Trentelman \n
+*Scalable controllability analysis of structured networks* \n
+/in IEEE Transactions on Networked Systems/, vol. 9, no. 2, pp. 891--903, June 2022\n
+[https://arxiv.org/abs/2012.09087 \[arXiv\]] [https://ieeexplore.ieee.org/document/9601287 \[Publisher\]]
+~~~
+
+~~~
+{13} 
+H.J. van Waarde, M.K. Camlibel, P. Rapisarda, and H.L. Trentelman\n
+*Data-driven dissipativity analysis: application of the matrix S-lemma* \n
+/in IEEE Control Systems Magazine/, vol. 42, no. 3, pp. 140--149, June 2022\n
+[https://arxiv.org/abs/2109.02090 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/9781292 \[Publisher\]]. 
+~~~
+
+
+~~~
+{12} 
+H.J. van Waarde\n
+*Beyond Persistent Excitation: Online Experiment Design for Data-Driven Modeling and Control* \n 
+/in IEEE Control Systems Letters/, vol. 6, pp. 319--324, 2022 \n
+[https://arxiv.org/abs/2102.11193 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/9406124 \[Publisher\]]
+~~~
+
+~~~
+{11} 
+H.J. van Waarde, M.K. Camlibel, and M. Mesbahi \n
+*From noisy data to feedback controllers: non-conservative design via a matrix S-lemma* \n
+/in IEEE Transactions on Automatic Control/, vol. 67, no. 1, pp. 162--175, Jan. 2022\n
+[https://arxiv.org/abs/2006.00870 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/9308978 \[Publisher\]]
+~~~
+
+~~~
+{10} 
+B. Shali, H.J. van Waarde, H.L. Trentelman, and M.K. Camlibel\n
+*Properties of pattern matrices with applications to structured systems*\n 
+/in IEEE Control Systems Letters/, vol. 6, pp. 109--114, 2022\n
+[https://arxiv.org/abs/2011.12158 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/9319174/ \[Publisher\]]
+~~~
+
+
+~~~
+{9}
+H.J. van Waarde, P. Tesi, and M.K. Camlibel \n
+*Topology Identification of Heterogeneous Networks: Identifiability and Reconstruction* \n
+/in Automatica/, vol. 123, pp. 109331, Jan. 2021\n
+[https://arxiv.org/abs/1909.11054 \[arXiv\]] [https://www.sciencedirect.com/science/article/pii/S0005109820305318 \[Publisher\]]
+~~~
+
+~~~
+{8} 
+J. Jia, H.J. van Waarde, H.L. Trentelman, and M.K. Camlibel \n
+*A Unifying Framework for Strong Structural Controllability* \n
+/in IEEE Transactions on Automatic Control/, vol. 66, no. 1, pp. 391--398, Jan. 2021\n
+[https://arxiv.org/abs/1903.03353 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/9039736/ \[Publisher\]]
+~~~
+
+~~~
+{7} 
+H.J. van Waarde, J. Eising, H.L. Trentelman, and M.K. Camlibel \n
+*Data informativity: a new perspective on data-driven analysis and control* \n
+/in IEEE Transactions on Automatic Control/, vol. 65, no. 11, pp. 4753-4768, Nov. 2020\n [https://arxiv.org/abs/1908.00468 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/8960476 \[Publisher\]]
+~~~
+
+~~~
+{6} 
+H.J. van Waarde, P. Tesi and M.K. Camlibel \n
+*Necessary and Sufficient Topological Conditions for Identifiability of Dynamical Networks* \n
+/in IEEE Transactions on Automatic Control/, vol. 65, no. 11, pp. 4525-4537, Nov. 2020\n
+[https://arxiv.org/abs/1807.09141 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/8920040 \[Publisher\]]
+~~~
+
+~~~
+{5} 
+H.J. van Waarde, C. De Persis, M.K. Camlibel, and P. Tesi \n
+*Willems' Fundamental Lemma for State-space Systems and its Extension to Multiple Datasets* \n
+/in IEEE Control Systems Letters/, vol. 4, no. 3, pp. 602--607, July 2020 \n
+[https://arxiv.org/abs/2002.01023 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/9062331 \[Publisher\]]
+~~~
+
+
+~~~
+{4} 
+H.J. van Waarde, P. Tesi and M.K. Camlibel \n
+*Topology Reconstruction of Dynamical Networks via Constrained Lyapunov Equations*\n 
+/in IEEE Transactions on Automatic Control/, vol. 64, no. 10, pp. 4300--4306, Oct. 2019 \n
+[https://arxiv.org/abs/1706.09709 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/8621032 \[Publisher\]]
+~~~
+
+~~~
+{3} 
+H.J. van Waarde, P. Tesi and M.K. Camlibel\n
+*Identifiability of Undirected Dynamical Networks: A Graph-Theoretic Approach* \n
+/in IEEE Control Systems Letters/, vol. 2, no. 4, pp. 683--688, Oct. 2018\n
+[https://arxiv.org/abs/1803.05247 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/8382192/ \[Publisher\]]
+~~~
+
+~~~
+{2} 
+H.J. van Waarde, M.K. Camlibel and H.L. Trentelman\n
+*A Distance-based Approach to Strong Target Control of Dynamical Networks* \n 
+/in IEEE Transactions on Automatic Control/, vol. 62, no. 12, pp. 6266--6277, Dec. 2017\n
+[https://arxiv.org/abs/1608.02256 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/7934432/ \[Publisher\]]
+~~~
+
+~~~
+{1}
+H.J. van Waarde, M.K. Camlibel and H.L. Trentelman \n
+*Comments on "On the Necessity of Diffusive Couplings in Linear Synchronization Problems With Quadratic Cost"* \n
+/in IEEE Transactions on Automatic Control/, vol. 62, no. 6, pp. 3099--3101, June 2017\n
+[https://ieeexplore.ieee.org/abstract/document/7862732/ \[Publisher\]]
+~~~
